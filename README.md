@@ -13,7 +13,7 @@ id | song | anime
 09 | Minutes Til Midnight - Gospel Of The Throttle REMIX ver. | Drifters
 10 | Hello Sleepwalkers - Goya no machiawase | Noragami
 11 | THE ORAL CIGARETTES - Kyouran Hey Kids!! | Noragami
-12 | Flashback - MIYAVI vs. KenKen | Kokkoku( 00:41
+12 | Flashback - MIYAVI vs. KenKen ( 00:41 ) | Kokkoku
 13 | Linked Horizon - Shinzou wo Sasageyo | Shingeki no Kyojin
 14 | Colors - FLOW | Code Geass
 15 | Vickeblanka - Black Rover | Black Clover
