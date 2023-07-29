@@ -7,6 +7,7 @@ id | song | anime
 03 | Tatsuya Kitani - When The Weak Go Marching In | Heion Sedai no Idaten-tachi
 04 | Dark Seeks Light - Yui Ninomiya | Sekai Saikou no Assassin
 05 | MYTH & ROID - VORACITY | Overlord
+00 | Elfen Lied - Lilium 
 06 | Yosei Teikoku - Kuusou Mesorogiwi | Mirai Nikki
 07 | Hero's Come Back | Naruto
 08 | KANA-BOON - Silhouette | Naruto
