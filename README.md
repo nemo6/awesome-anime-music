@@ -7,7 +7,7 @@ id | song | anime
 03 | Tatsuya Kitani - When The Weak Go Marching In | Heion Sedai no Idaten-tachi
 04 | Dark Seeks Light - Yui Ninomiya | Sekai Saikou no Assassin
 05 | MYTH & ROID - VORACITY | Overlord
-00 | Elfen Lied - Lilium 
+00 | Moka - Lilium | Elfen Lied
 06 | Yosei Teikoku - Kuusou Mesorogiwi | Mirai Nikki
 07 | Hero's Come Back | Naruto
 08 | KANA-BOON - Silhouette | Naruto
@@ -21,7 +21,7 @@ id | song | anime
 16 | BRADIO - Flyers | Death Parade
 17 | ZAQ - Katararezu tomo | Concrete Revolutio
 18 | Mission Ken Kou Dai Ichi | Cells at Work!
-19 | Hataraku Saibou - Mission! Ken Kou Dai Ichi | Opening 1 | Les Brigades immunitaires
+19 | Hataraku Saibou - Mission! Ken Kou Dai Ichi ( Les Brigades immunitaires ) | Opening 1
 20 | The Peggies - Centimeter | Kanojo, Okarishimasu
 21 | Bye Bye Yesterday - 3 Nen E Gumi Uta Tan | Assassination Classroom
 22 | Chikatto Chika Chika | Love is War
@@ -44,5 +44,5 @@ id | song | anime
 39 | KANA-BOON - Naimononedari | Boruto
 40 | Creepy Nuts - Daten | Call of The Night
 41 | Masayuki Suzuki - DADDY !DADDY ! DO ! | love is war
-42 | NIGHTMARE - the WORLD | death note openning 1
-43 | MYTH & ROID - Paradisus-Paradoxum
+42 | NIGHTMARE - the WORLD | Death Note Openning 1
+43 | MYTH & ROID - Paradisus-Paradoxum | Re:Zero Opening 2
