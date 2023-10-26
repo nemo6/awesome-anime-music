@@ -45,3 +45,4 @@ id | song | anime
 40 | Creepy Nuts - Daten | Call of The Night
 41 | Masayuki Suzuki - DADDY !DADDY ! DO ! | love is war
 42 | NIGHTMARE - the WORLD | death note openning 1
+43 | MYTH & ROID - Paradisus-Paradoxum
