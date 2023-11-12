@@ -46,3 +46,4 @@ id | song | anime
 41 | Masayuki Suzuki - DADDY !DADDY ! DO ! | love is war
 42 | NIGHTMARE - the WORLD | Death Note Openning 1
 43 | MYTH & ROID - Paradisus-Paradoxum | Re:Zero Opening 2
+44 | Orange Range- *ASTERISK | https://www.youtube.com/watch?v=UAwecjThZms
