@@ -8,7 +8,7 @@ id | song | anime
 04 | Dark Seeks Light - Yui Ninomiya | Sekai Saikou no Assassin
 05 | MYTH & ROID - VORACITY | Overlord
 00 | Moka - Lilium | Elfen Lied
-06 | Yosei Teikoku - Kuusou Mesorogiwi | Mirai Nikki
+06 | Yosei Teikoku - Kuusou Mesorogiwi | Mirai Nikki 1 Opening
 07 | Hero's Come Back | Naruto
 08 | KANA-BOON - Silhouette | Naruto
 09 | Minutes Til Midnight - Gospel Of The Throttle REMIX ver. | Drifters
