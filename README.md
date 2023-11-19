@@ -49,3 +49,4 @@ id | song | anime
 44 | Orange Range - *ASTERISK | Bleach - Original Soundtrack 1
 45 | Konomi Suzuki - Redo | Re:ZERO Opening 1
 46 | Official HIGE DANdism- Cry Baby | Tokyo Revengers Opening 1
+47 | Ayase / YOASOBI - 怪物 | Beastars Season 2 Opening
