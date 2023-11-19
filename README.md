@@ -50,3 +50,4 @@ id | song | anime
 45 | Konomi Suzuki - Redo | Re:ZERO Opening 1
 46 | Official HIGE DANdism- Cry Baby | Tokyo Revengers Opening 1
 47 | Ayase / YOASOBI - 怪物 | Beastars Season 2 Opening
+48 | Kanon Wakeshima - Still Doll | Vampire Knight Ending 1
