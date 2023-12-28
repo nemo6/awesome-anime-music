@@ -52,3 +52,4 @@ id | song | anime
 47 | Ayase / YOASOBI - 怪物 | Beastars Season 2 Opening
 48 | Kanon Wakeshima - Still Doll | Vampire Knight Ending 1
 49 | Asaka - I believe what you said | Higurashi no Naku Koro ni : Gou Opening 1
+50 | Tia - Deal with the devil | Kakegurui Opening 1
