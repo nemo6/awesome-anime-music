@@ -20,8 +20,8 @@ id | song | anime
 15 | Vickeblanka - Black Rover | Black Clover
 16 | BRADIO - Flyers | Death Parade
 17 | ZAQ - Katararezu tomo | Concrete Revolutio
-18 | Mission Ken Kou Dai Ichi | Cells at Work!
-19 | Hataraku Saibou - Mission! Ken Kou Dai Ichi ( Les Brigades immunitaires ) | Opening 1
+18 | Mission Ken Kou Dai Ichi | Les Brigades immunitaires - Cells at Work!
+19 | Hataraku Saibou - Mission! Ken Kou Dai Ichi| Les Brigades immunitaires ( Opening 1 )
 20 | The Peggies - Centimeter | Kanojo, Okarishimasu
 21 | Bye Bye Yesterday - 3 Nen E Gumi Uta Tan | Assassination Classroom
 22 | Chikatto Chika Chika | Love is War
@@ -35,8 +35,8 @@ id | song | anime
 30 | Stereopony - Tsukiakari no Michishirube | Darker than Black
 31 | ZAQ - OverDriver | RAILWARS!
 32 | When Supernatural Battles Became Commonplace - OVERLAPPERS | Opening 1
-33 | Aldnoah.Zero - aLIEz | Ending 2
-34 | Aldnoah.Zero - Heavenly Blue | Opening 1
+33 | Aldnoah.Zero - aLIEz | Aldnoah.Zero ( Ending 2 )
+34 | Aldnoah.Zero - Heavenly Blue | Aldnoah.Zero ( Opening 1 )
 35 | Fire Force | Mrs. GREEN APPLE - Inferno
 36 | Ikimonogakari - Blue Bird | Naruto
 37 | Ikimonogakari - Hotarunohikari | Naruto
@@ -49,7 +49,7 @@ id | song | anime
 44 | Orange Range - *ASTERISK | Bleach - Original Soundtrack 1
 45 | Konomi Suzuki - Redo | Re:ZERO Opening 1
 46 | Official HIGE DANdism - Cry Baby | Tokyo Revengers Opening 1
-47 | Ayase / YOASOBI - 怪物 | Beastars Season 2 Opening
-48 | Kanon Wakeshima - Still Doll | Vampire Knight Ending 1
-49 | Asaka - I believe what you said | Higurashi no Naku Koro ni : Gou Opening 1
-50 | Tia - Deal with the devil | Kakegurui Opening 1
+47 | Ayase / YOASOBI - 怪物 | Beastars Season 2 ( Opening 1 )
+48 | Kanon Wakeshima - Still Doll | Vampire Knight ( Ending 1 )
+49 | Asaka - I believe what you said | Higurashi no Naku Koro ni : Gou ( Opening 1 )
+50 | Tia - Deal with the devil | Kakegurui ( Opening 1 )
