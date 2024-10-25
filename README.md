@@ -53,3 +53,4 @@ id | song | anime
 48 | Kanon Wakeshima - Still Doll | Vampire Knight ( Ending 1 )
 49 | Asaka - I believe what you said | Higurashi no Naku Koro ni : Gou ( Opening 1 )
 50 | Tia - Deal with the devil | Kakegurui ( Opening 1 )
+51 | HIGH and MIGHTY COLOR - Pride |
